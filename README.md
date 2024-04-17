@@ -106,6 +106,4 @@ Aaron Tsatsu Tamakloe (Github: @aarontsatsu), John Terence Manful (Github: @jt-m
 ```
 
 ## Youtube Link
-```
-https://youtu.be/sTNkW7d2ZVo
-```
+[Project Video Link]https://www.youtube.com/watch?v=sTNkW7d2ZVo)
