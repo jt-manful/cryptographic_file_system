@@ -105,5 +105,5 @@ Ensure you are in the directory above mountpoint when running this command (idea
 Aaron Tsatsu Tamakloe (Github: @aarontsatsu), John Terence Manful (Github: @jt-manful)
 ```
 
-## Youtube Link
-[Project Video Link]https://www.youtube.com/watch?v=sTNkW7d2ZVo)
+## Project Youtube Link
+<https://www.youtube.com/watch?v=sTNkW7d2ZVo>
